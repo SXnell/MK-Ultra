@@ -86,7 +86,3 @@ During a fight press:
 - Drag to draw, drag boxes to move, `Del` to delete
 - `Ctrl+S` to save (`hitboxes_nate.json`)
 
-## Troubleshooting
-
-- **Blank/black backgrounds or missing art:** some assets are referenced via absolute paths in `MKUltra.py`. If you cloned this repo to a different location, update the path constants near the top (menus) and `STAGES_DIR` (stages), or place assets in the expected sibling folders (`menu/`, `stages/`, etc.).
-- **No audio:** the game will continue silently if the mixer can’t initialize or files are missing.
