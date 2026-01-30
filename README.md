@@ -86,3 +86,4 @@ During a fight press:
 - Drag to draw, drag boxes to move, `Del` to delete
 - `Ctrl+S` to save (`hitboxes_nate.json`)
 
+Thank you
