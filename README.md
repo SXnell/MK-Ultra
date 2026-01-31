@@ -87,3 +87,4 @@ During a fight press:
 - `Ctrl+S` to save (`hitboxes_nate.json`)
 
 Thank you
+New Sprites to Come Soon
